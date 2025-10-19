@@ -99,3 +99,5 @@ managed_services =
 subscriptions = 
 	octoeverywhere
 
+[zeroconf]
+
